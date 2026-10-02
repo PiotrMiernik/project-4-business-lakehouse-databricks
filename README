@@ -1,3 +1,13 @@
-# Business Lakehouse on Databricks
+## Project Overview
 
-End-to-end Data Engineering project built with Databricks, Delta Lake, Unity Catalog, AWS S3, and dbt.
+This project implements a business-oriented lakehouse architecture using Databricks.
+
+The solution will cover:
+- AWS S3 source data in JSON and XML formats
+- Medallion architecture (Bronze, Silver, Gold)
+- Delta Lake
+- Unity Catalog
+- Lakeflow Jobs and pipelines
+- Data quality and monitoring
+- dbt transformations
+- Git/GitHub integration
